@@ -2,6 +2,8 @@
 
 *Class 12*
 
+![Screenshot 2024-11-05 195235](https://github.com/user-attachments/assets/0e347ae1-2ca2-48f5-a48b-0aeae96725ed)
+
 *Overview*
 
 The File Analyzer Tool is a web-based application developed using Flask that allows users to analyze different types of files: text files, binary files, and CSV files. Each file type has a dedicated interface with specific queries tailored to provide insights and information about the files.

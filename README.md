@@ -36,11 +36,19 @@ pip install -r requirements.txt
 
 *Usage*
 
-Run the Flask application:
+Step1:
 
-python app.py
+Open terminal and type code 'pip install -r requirements.txt'
 
-Open your web browser and navigate to http://127.0.0.1:5000/.
+Step2:
+
+Run the Flask application: By entering 'python app.py' to terminal 
+
+Step3:
+
+Open your web browser and navigate to http://127.0.0.1:5000/
+
+Step4:Enjoy Tool..
 
 Choose the file type you wish to analyze:
 

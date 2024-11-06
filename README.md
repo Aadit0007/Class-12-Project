@@ -26,8 +26,7 @@ Backend: Python with Flask framework
 
 Clone the repository:
 
-git clone https://github.com/yourusername/file-analyzer-tool.git
-
+git clone https://github.com/Aadit0007/Class-12-Project.git
 Navigate to the project directory:
 
 cd file-analyzer-tool
